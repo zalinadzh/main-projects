@@ -15,6 +15,6 @@
 2. Перейдите в папку проекта: `cd main-projects`
 3. Откройте файл `index.html` в вашем браузере
 # Контакты
-## Email: `z.dzhambotova@mail.ru`
-## GitHub:  https://zalinadzh.github.io/main-projects/
+## Email: Email: [z.dzhambotova@mail.ru](mailto:z.dzhambotova@mail.ru)
+## GitHub:  [zalinadzh](https://github.com/zalinadzh/main-projects)
 
