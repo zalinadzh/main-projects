@@ -17,5 +17,5 @@
 3. Откройте файл `index.html в вашем браузере.
 # Контакты
 ## Email: `z.dzhambotova@mail.ru`
-## GitHub: [@zalinadzh/main-projects](github.com)
+## GitHub: [zalinadzh.github.io]
 
