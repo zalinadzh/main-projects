@@ -14,9 +14,9 @@
 Если вы хотите просмотреть проекты на своем компьютере:
 1. Клонируйте репозиторий: `git clone github.com`
 2. Перейдите в папку проекта: `cd main-projects`
-3. Откройте файл `index.html в вашем браузере.
+3. Откройте файл `index.html` в вашем браузере.
 # Контакты
 ## Email: `z.dzhambotova@mail.ru`
-## GitHub: [@zalinadzh](github.com)
+## GitHub: [@zalinadzh](https://github.com)
 ## Опубликованный сайт: https://zalinadzh.github.io/main-projects/
 
