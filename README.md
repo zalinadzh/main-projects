@@ -18,5 +18,5 @@
 # Контакты
 ## Email: `z.dzhambotova@mail.ru`
 ## GitHub: [zalinadzh](github.com)
-## Опубликованный сайт: zalinadzh.github.io
+## Опубликованный сайт: https://zalinadzh.github.io/main-projects/
 
