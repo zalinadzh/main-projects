@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title> Моя вторая самостоятельная работа </title>
+    </head>
+
+    <body>
+        <h1> Hi, Guys! </h>
+    </body>
+</html>
